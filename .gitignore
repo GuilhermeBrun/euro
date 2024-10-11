@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+
+# dotenv environment variables file
+.env*.local
+
+# Optional npm cache directory
+.npm
+.next
+
+# Arquivos gerados
+src/swagger/swagger_output.json
