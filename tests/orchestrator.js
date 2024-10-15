@@ -20,4 +20,6 @@ async function waitAllServices() {
   }
 }
 
-export default { waitAllServices };
+const orchestrator = { waitAllServices };
+
+export default orchestrator;
